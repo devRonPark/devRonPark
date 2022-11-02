@@ -4,7 +4,7 @@ I'm Ron who wants to become a backend-developer.
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more bout me...  
 
 ```javascript
-const anmol = {
+const devRonPark = {
     pronouns: "He" | "Him",
     code: ["JavaScript", "TypeScript", "Kotlin"],
     askMeAbout: ["web dev"],
