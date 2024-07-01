@@ -1,10 +1,17 @@
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=76819C&height=180&section=header&text=Byung%20Chan&fontSize=80&fontColor=ffffff&animation=blinking)
+
+## 📬 Contact Me
+<p align = "center">
+Email. <b>pbc9236@gmail.com</b> <br>
+Phone. <b>010-9567-9236</b>
+</p>
+
 ## 👋 Hi there! Welcome to my GitHub 🙇‍♀️
 
 - 🌱 안녕하세요! 주니어 웹 백엔드 개발자 박병찬입니다.
 - :open_file_folder: 학습한 개발 지식을 꾸준히 기록하고 있으며, 다른 사람에게 도움이 되는 글을 쓰기 위해 노력합니다.
 - :pushpin: 코드 구현과 프로세스를 효율적으로 개선하는 과정을 좋아합니다.
-- 📚 최근 Wanted Pre-Onboarding에 참여하면서 AWS 인프라 환경 설계에 대한 전반적인 이해 및 현업에서 자주 쓰이는 AWS 인프라 환경을 직접 구축해보았습니다.
-- 📈 현재 토이 프로젝트를 진행하며 TypeScript, NestJS 를 중점적으로 학습하고 있습니다.
+- 📈 현재 Java 백엔드 개발자 교육 과정을 수강 중이며 Java, Spring 을 중점적으로 학습하고 있습니다.
 
 ## 👩‍💻 Tech Stack
 
