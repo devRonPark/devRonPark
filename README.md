@@ -1,48 +1,61 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=76819C&height=180&section=header&text=Byung%20Chan&fontSize=80&fontColor=ffffff&animation=blinking)
 
-## 📬 Contact Me
-<p align = "center">
-Email. <b>pbc9236@gmail.com</b> <br>
-Phone. <b>010-9567-9236</b>
+## Contact
+
+<p align="center">
+  Email. <b>pbc9236@gmail.com</b>
 </p>
 
-## 👋 Hi there! Welcome to my GitHub 🙇‍♀️
+## Hi, I'm Byung Chan Park
 
-- 🌱 안녕하세요! 주니어 웹 백엔드 개발자 박병찬입니다.
-- :open_file_folder: 학습한 개발 지식을 꾸준히 기록하고 있으며, 다른 사람에게 도움이 되는 글을 쓰기 위해 노력합니다.
-- :pushpin: 코드 구현과 프로세스를 효율적으로 개선하는 과정을 좋아합니다.
-- 📈 현재 Java 백엔드 개발자 교육 과정을 수강 중이며 Java, Spring 을 중점적으로 학습하고 있습니다.
+회사에서 솔루션 엔지니어로 일하고 있습니다.  
+주로 Kubernetes 기반 인프라와 컨테이너 환경을 다루며, 안정적인 운영과 자동화된 워크플로우에 관심을 두고 있습니다.
 
-## 👩‍💻 Tech Stack
+- Kubernetes, containerization, infrastructure automation을 중심으로 경험을 쌓고 있습니다.
+- AI infrastructure와 AI agent 기반 개발 워크플로우에 관심이 있습니다.
+- 운영 관점에서 문제를 바라보고, 반복되는 작업을 코드와 도구로 줄이는 방식을 선호합니다.
+- GitHub에는 학습 기록보다 현재 관심사와 연결되는 프로젝트를 중심으로 정리하고 있습니다.
 
-<div align = "center">
+## Tech Stack
 
-  ### Techs that I've used and interested in
-    
-  #### ▶ Dev
-  <div>
-    <img src="https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3" />
-    <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />
-    <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NestJs-D83B01?style=for-the-badge&logo=nestjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=ffffff" />
-  </div>
-    
-  #### ▶ Non-Dev
-  <div>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>    
-  </div>
+<div align="center">
 
-  ### Techs that I've experienced 
+### Infrastructure
 
-  #### ▶ Dev
-  <div>
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff" />
-  </div>
+<div>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-46A2F1?style=for-the-badge&logo=docker&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" />
+</div>
+
+### AI & Automation
+
+<div>
+  <img src="https://img.shields.io/badge/AI%20Infra-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agent-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic%20Coding-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+### Development
+
+<div>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000" />
+</div>
+
+### Tools
+
+<div>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+</div>
