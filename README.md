@@ -12,7 +12,7 @@
 주로 Kubernetes 기반 인프라와 컨테이너 환경을 다루며, 안정적인 운영과 자동화된 워크플로우에 관심을 두고 있습니다.
 
 - Kubernetes, containerization, infrastructure automation을 중심으로 경험을 쌓고 있습니다.
-- AI infrastructure와 AI agent 기반 개발 워크플로우에 관심이 있습니다.
+- AI infrastructure와 AI agent 기반 개발 워크플로우에 관심이 있으며, Claude Code와 Codex CLI를 주로 사용합니다.
 - 운영 관점에서 문제를 바라보고, 반복되는 작업을 코드와 도구로 줄이는 방식을 선호합니다.
 - GitHub에는 학습 기록보다 현재 관심사와 연결되는 프로젝트를 중심으로 정리하고 있습니다.
 
@@ -36,6 +36,8 @@
   <img src="https://img.shields.io/badge/AI%20Infra-111827?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%20Agent-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Agentic%20Coding-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex%20CLI-111827?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
